@@ -4,7 +4,7 @@
 ## Background Context
 - The word “networking” elicits a variety of responses – excitement, dread, confusion, and more. Befriending strangers for career betterment can feel selfish, insincere, and difficult if you are doing it incorrectly.
 
-	- Networking is all about relationships.
+#### 	Networking is all about relationships.
 
 - It is about mutually respecting others that share your interest.
 
