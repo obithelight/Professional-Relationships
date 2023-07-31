@@ -81,11 +81,11 @@
 ## Templates
 - It can be daunting to know how to best compose a message. Templates are helpful, but you want to personalize it otherwise it’ll seem disingenuine. Some key points to remember…
 
-	Less is more - kindly get to the point, because people are busy. Moreover your lengthy email will be avoided out of sheer time/energy constraints
-	Reference the connection - Did you talk about AWS at a conference? Meet through a mutual contact? Jog their memory with a well-framed detail.
-	Respect their time - don’t bomb drop questions without first asking if they’ve the time/willingness to answer them (unless they earlier offered to do so)
-	Offer to buy them coffee - if someone’s offered their in-person time to answer questions, at least compensate with a cup of their preferred beverage at a convenient location per their lifestyle.
-	Let them propose their best availability - maybe you don’t like waking up early; if that’s their proposed time to meet, accommodate.
+	- Less is more - kindly get to the point, because people are busy. Moreover your lengthy email will be avoided out of sheer time/energy constraints
+	- Reference the connection - Did you talk about AWS at a conference? Meet through a mutual contact? Jog their memory with a well-framed detail.
+	- Respect their time - don’t bomb drop questions without first asking if they’ve the time/willingness to answer them (unless they earlier offered to do so)
+	- Offer to buy them coffee - if someone’s offered their in-person time to answer questions, at least compensate with a cup of their preferred beverage at a convenient location per their lifestyle.
+	- Let them propose their best availability - maybe you don’t like waking up early; if that’s their proposed time to meet, accommodate.
 ### Here is an example of a message sent to a mutual contact:
 
 	Hello [contact]! 
@@ -110,7 +110,9 @@
 
 	Let me know if I could ever buy you a coffee and hear about your experience with it! 
 
-	Best, [signature]
+	Best, 
+
+	[signature]
 
 ### For good measure, here is another sent to a complete stranger whose keynote had been unfortunately missed:
 
