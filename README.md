@@ -96,4 +96,8 @@
 
 ### For good measure, here is another sent to a complete stranger whose keynote had been unfortunately missed:
 
-	Hello [name of speaker]! I was disappointed to have missed your [keynote at xyz event] given that [tech field] is one of the areas I’m most interested in pursuing. I am looking forward to learning more, and hope I’ll be able to catch your professional insight at another event. Need be, may I contact you with industry specific questions in the future? Regardless, have a great week! [signature]
+	Hello [name of speaker]! 
+	I was disappointed to have missed your [keynote at xyz event] given that [tech field] is one of the areas I’m most interested in pursuing. 
+	I am looking forward to learning more, and hope I’ll be able to catch your professional insight at another event. 
+	Need be, may I contact you with industry specific questions in the future? Regardless, have a great week! 
+	[signature]
