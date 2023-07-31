@@ -4,7 +4,7 @@
 ## Background Context
 - The word “networking” elicits a variety of responses – excitement, dread, confusion, and more. Befriending strangers for career betterment can feel selfish, insincere, and difficult if you are doing it incorrectly.
 
-* Networking is all about relationships.
+	- Networking is all about relationships.
 
 - It is about mutually respecting others that share your interest.
 
@@ -25,15 +25,15 @@
 
 - Let’s say you have a lot of interest in Machine Learning. Your initial instinct may be to find a mentor in that field, but that isn’t the best first step.
 
-** You may not have a lot of [or any] field-specific understanding → Interaction will be awkward.
+	- You may not have a lot of [or any] field-specific understanding → Interaction will be awkward.
 ** Your questions won’t be well-defined, so they’ll be harder to answer → It will be disrespecting the mentor’s time/energy/expertise.
-** You won’t be demonstrating a personal investment → you will damage your personal brand and your repertoire with that mentor.
+	- You won’t be demonstrating a personal investment → you will damage your personal brand and your repertoire with that mentor.
 
 ### What is an alternative? Follow the framework!
 
 - Start out exploring a topic through research, tutorials, trial/error, peers, TAs, and staff (aka The Framework); consider this great practice because when you attend a meetup, conference, or mentor lunch you will be putting your best foot forward. Once you have grappled with your interest and are presented with niche questions, get your feet wet and reach out to others in the industry.
 
-* Your networking should reflect the curiosities you’re personally cultivating; others will know how to better pursue opportunity with you if you place yourself within the appropriate circles.
+	- Your networking should reflect the curiosities you’re personally cultivating; others will know how to better pursue opportunity with you if you place yourself within the appropriate circles.
 
 ## Creating Connections
 - Developing professional relationships isn’t any different from what you’ve been doing at ALX – it’s just a new context for practicing the peer learning framework that begins right at school. There are a variety of life and professional backgrounds represented in each cohort. Some have already had experience working in tech, while others may soon find themselves in the job of their dreams.
@@ -88,12 +88,12 @@
 	- Let them propose their best availability - maybe you don’t like waking up early; if that’s their proposed time to meet, accommodate.
 ### Here is an example of a message sent to a mutual contact:
 
-- Hello [contact]! I’m a student at ALX and [mutual friend] recommended I reach out to you regarding your perspective/experience at [company in question], or learning on the job overall. In the future, would you mind if I asked you a few questions? Thank you either way for the time! [signature]
+	- Hello [contact]! I’m a student at ALX and [mutual friend] recommended I reach out to you regarding your perspective/experience at [company in question], or learning on the job overall. In the future, would you mind if I asked you a few questions? Thank you either way for the time! [signature]
 
 ### Here is one for connecting after a meetup/conference/etc (you had connected on LinkedIn):
 
-Hi [contact’s name], It was great meeting you at [event]. I had a great time hearing your thoughts on [conversation topic]. On your LinkedIn profile, it says you’re currently working with [particular tech you like]—and [reason why it relates to you]. Let me know if I could ever buy you a coffee and hear about your experience with it! Best, [signature]
+	- Hi [contact’s name], It was great meeting you at [event]. I had a great time hearing your thoughts on [conversation topic]. On your LinkedIn profile, it says you’re currently working with [particular tech you like]—and [reason why it relates to you]. Let me know if I could ever buy you a coffee and hear about your experience with it! Best, [signature]
 
 ### For good measure, here is another sent to a complete stranger whose keynote had been unfortunately missed:
 
-Hello [name of speaker]! I was disappointed to have missed your [keynote at xyz event] given that [tech field] is one of the areas I’m most interested in pursuing. I am looking forward to learning more, and hope I’ll be able to catch your professional insight at another event. Need be, may I contact you with industry specific questions in the future? Regardless, have a great week! [signature]
+	- Hello [name of speaker]! I was disappointed to have missed your [keynote at xyz event] given that [tech field] is one of the areas I’m most interested in pursuing. I am looking forward to learning more, and hope I’ll be able to catch your professional insight at another event. Need be, may I contact you with industry specific questions in the future? Regardless, have a great week! [signature]
